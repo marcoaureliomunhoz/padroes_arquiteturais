@@ -69,3 +69,5 @@ Os padrões:
 
 **Fontes** 
 - https://martinfowler.com/eaaCatalog/index.html
+- https://www.devmedia.com.br/unit-of-work-o-padrao-de-unidade-de-trabalho-net/25811 (UnitOfWork por DevMedia)
+- https://dotnetthoughts.net/implementing-the-repository-and-unit-of-work-patterns-in-aspnet-core/ (UnitOfWork por DotNetThoughts)
